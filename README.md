@@ -18,10 +18,6 @@ LexIcoN is a Full-Stack MERN structured web app that's intended to provide a soc
 # Links
 [Github Repo: https://github.com/mhknowledge/lexicon](https://github.com/mhknowledge/lexicon)
 
-# License
-## [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
-
-
 ## Screenshots:
 
 ![image](https://user-images.githubusercontent.com/79174643/129565594-e4a4624f-682a-4f4e-a6b7-d9794cb91f67.png)
@@ -30,3 +26,5 @@ LexIcoN is a Full-Stack MERN structured web app that's intended to provide a soc
 
 ![image](https://user-images.githubusercontent.com/79174643/129566605-e4db334f-d558-432d-9d03-0d238d759592.png)
 
+# License
+## [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
