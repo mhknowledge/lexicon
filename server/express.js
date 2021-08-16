@@ -7,7 +7,7 @@ import cors from 'cors'
 import Template from './../template'
 import userRoutes from './routes/user.routes'
 import authRoutes from './routes/auth.routes'
-// import devBundle from './devBundle'
+import devBundle from './devBundle'
 import path from 'path'
 
 // modules for server side rendering
@@ -24,7 +24,7 @@ const app = express()
 
 const CURRENT_WORKING_DIR = process.cwd()
 
-// devBundle.compile(app)
+devBundle.compile(app)
 // 
 
 
