@@ -1,6 +1,6 @@
 # lexicon
 
-LexIcoN is a Full-Stack MERN structured web app that's intended to provide a social platform for aspiring polyglots and the likes.  The platform will allow user the ability to share resources and the ability to assist one another along the long journey of mastering various languages.
+LexIcoN is a Full-Stack MERN structured web app that's intended to provide a social platform for aspiring polyglots and the likes.  The platform will allow users the ability to share resources and the ability to assist one another along the long journey of mastering various languages.
 
 ## Screenshots:
 
