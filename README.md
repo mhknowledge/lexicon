@@ -10,7 +10,7 @@ LexIcoN is a Full-Stack MERN structured web app that's intended to provide a soc
 * ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 * ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
+* ![MongDB](https://img.shields.io/badge/MongoDB-https%3A%2F%2Fwww.mongodb.com%2F-green)
 ## Screenshots:
 
 ![image](https://user-images.githubusercontent.com/79174643/129565594-e4a4624f-682a-4f4e-a6b7-d9794cb91f67.png)
