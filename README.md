@@ -18,6 +18,9 @@ LexIcoN is a Full-Stack MERN structured web app that's intended to provide a soc
 # Links 
 [Github Repo: https://github.com/mhknowledge/lexicon](https://github.com/mhknowledge/lexicon)
 [Deployed Site: https://lexicon-social.herokuapp.com/ ](https://lexicon-social.herokuapp.com/)
+
+## Demo
+https://drive.google.com/file/d/1jAO3k6KDech6RkBOshejEE9lrJF8_3If/view
 ## Screenshots:
 
 ![image](https://user-images.githubusercontent.com/79174643/129565594-e4a4624f-682a-4f4e-a6b7-d9794cb91f67.png)
