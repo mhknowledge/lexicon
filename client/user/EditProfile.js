@@ -102,7 +102,7 @@ export default function EditProfile({ match }) {
           <TextField id="name" label="Name" className={classes.textField} value={values.name} onChange={handleChange('name')} margin="normal"/><br/>
           <TextField id="email" type="email" label="Email" className={classes.textField} value={values.email} onChange={handleChange('email')} margin="normal"/><br/>
           <TextField id="password" type="password" label="Password" className={classes.textField} value={values.password} onChange={handleChange('password')} margin="normal"/>
-          <TextField id="multiline-flexible" label="About" multiline rows="2" value={values.about} onChange={handleChange('about')}/>
+          <TextField id="multiline-flexible" label="Language" multiline rows="2" value={values.about} onChange={handleChange('languages')}/>
           <br/> {
             values.error && (<Typography component="p" color="error">
               <Icon color="error" className={classes.error}>error</Icon>
