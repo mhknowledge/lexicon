@@ -15,7 +15,11 @@ LexIcoN is a Full-Stack MERN structured web app that's intended to provide a soc
 * ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 * ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# Links
+[Github Repo: https://github.com/mhknowledge/lexicon](https://github.com/mhknowledge/lexicon)
 
+# License
+## [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Screenshots:
