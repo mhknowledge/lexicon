@@ -83,6 +83,7 @@ export default function Profile({ match }) {
               </ListItemSecondaryAction>)
             }
           </ListItem>
+          {/* <ListItem> <ListItemText primary={this.state.user.about}/></ListItem> */}
           <Divider/>
           <ListItem>
             <ListItemText primary={"Joined: " + (

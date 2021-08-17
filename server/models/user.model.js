@@ -23,10 +23,10 @@ const UserSchema = new mongoose.Schema({
     type: Date,
     default: Date.now
   },
-  language: {
-    type: String,
-    trim: true
-  }
+  // about: {
+  //   type: String,
+  //   trim: true
+  // }
 })
 
 UserSchema
