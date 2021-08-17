@@ -32,5 +32,12 @@ https://drive.google.com/file/d/1X47vAUYqJHet-Owi8xFieiTSeykSDvwD/view
 
 ![image](https://user-images.githubusercontent.com/79174643/129647166-742522ed-c35f-4367-b186-626041301f36.png)
 
+
+## Installation
+1.) Clone the repo to your local machine
+2.) Open the repo folder using VS or the likes
+3.) NPM Install 
+4.) nodemon or npm run development to get the app running on localhost:3000 (to change the local port to /config/config.js port: process.env.PORT || (declare your port here),).......
+
 # License
 ## [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
